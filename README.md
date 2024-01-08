@@ -1,5 +1,6 @@
 # EDI-Mathematical-model
 
+## Model for SIGHT 
 ## Input:
 
 - **Input Image:** Denoted by X
